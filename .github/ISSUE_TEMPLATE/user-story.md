@@ -12,6 +12,7 @@ assignees: ''
 **Acceptance Criteria:**  
 - [ ] Criterion 1  
 - [ ] Criterion 2  
+
 **Definition of Done (DoD):**  
 - [ ] Code is reviewed  
 - [ ] Feature is tested  
