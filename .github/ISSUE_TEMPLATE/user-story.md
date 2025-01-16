@@ -14,10 +14,6 @@ assignees: ''
 - [ ] Criterion 2  
 
 **Definition of Done (DoD):**  
-- [ ] Code is reviewed  
-- [ ] Feature is tested  
-- [ ] Feature is deployed
-
 - [ ] Code for feature implementation is reviewed by at least one other team member 
 - [ ] Tests are written to cover this feature 
 - [ ] All existing and new tests pass 
